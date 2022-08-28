@@ -12,6 +12,13 @@
     <br>
     <a href="inner_links.html">To Inner Links</a>
     <h1>Targets</h1>
-    <a href="https://www.google.com" target="_blank">Open Google in New Tab</a>
+    <ul>
+        <li>New Tab: <a href="https://www.google.com" target="_blank">Google</a></li>
+        <li>In frame: <a href="./inner_links.html" target="frame">Inner Links Page</Link></a></li>
+        <li>In Same Tab: <a href="https://www.google.com">Google</a></li>
+    </ul>
+    <iframe name="frame" width="400" height="400" src="http://example.com/"></iframe>
+    <h1>Iframe of the same page</h1>
+    <iframe name="frame" width="400" height="400" src="./links.html"></iframe>
 </body>
 </html>
