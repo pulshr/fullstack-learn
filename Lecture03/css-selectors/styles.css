@@ -1,0 +1,21 @@
+* {
+    font-style: italic;
+}
+div {
+    color: blue;
+}
+p {
+    color: red;
+}
+.big {
+    font-size: 30pt;
+}
+.bold {
+    font-weight: bold;
+}
+#one {
+    background-color: aqua;
+}
+#two {
+    background-color: bisque;
+}
