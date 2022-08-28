@@ -1,0 +1,22 @@
+.box {
+    height: 80px;
+    width: 80px;
+    background-color: aqua;
+    padding: 10px;
+    color: grey;
+}
+
+.box:hover {
+    background-color: green;
+    color: beige;
+    font-weight: bold;
+}
+
+.box:active {
+    height: 100px;
+    width: 100px;
+}
+input:focus {
+    font-size: 20px;
+    width: 200px;
+}

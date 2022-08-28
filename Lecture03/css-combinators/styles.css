@@ -4,3 +4,9 @@ h2 + p {
 h2 ~ p {
     color: brown;
 }
+section > p {
+    background-color: aqua;
+}
+section p {
+    background-color: orange;
+}
