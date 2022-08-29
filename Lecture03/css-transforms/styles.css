@@ -1,0 +1,18 @@
+div {
+    background-color: purple;
+    height: 60px;
+    width: 60px;
+    margin: 20px;
+}
+.scaled {
+    transform: scale(8,1);
+}
+.skewed {
+    transform: skew(20deg);
+}
+.rotated {
+    transform: rotate(20deg) translateX(150px);
+}
+.translated {
+    transform: translate(0px,0px);
+}
