@@ -4,7 +4,7 @@ function greet(name) {
 function createGreeter(greeting) {
 
     function greet(name) {
-        // here we treat name as if it is string
+        // here we treat as if name is function
         console.log(greeting, name)
     }
 
