@@ -9,6 +9,7 @@ HTML
   - Links and inner links
   - Iframes
   - Forms
+  
 CSS
   - Linking HTML File
   - Selectors
@@ -19,6 +20,7 @@ CSS
   - Animations
   - Flexbox
   - Positioning
+  
 Javascript
   - Linking HTML File
   - Datatypes
